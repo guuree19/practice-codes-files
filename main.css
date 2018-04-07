@@ -1,0 +1,17 @@
+
+body{padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+         }
+
+        nav{
+                background-color: #4f4f4f;
+            }
+        body{
+            background-color: blueviolet;
+        } 
+        ul ,li,a{
+            display: block;
+            text-decoration: none;
+        }       
